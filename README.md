@@ -54,6 +54,17 @@ I am a Software Developer focused on building web applications and business syst
 </span>
 
 <hr>
+
+<div>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Gabrieldev-8&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gabrieldev-8)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Gabrieldev-8&theme=material-palenight)](https://github.com/Gabrieldev-8)
+</div>
+
+
+
+<hr>
 <p align="center">
    <i>Every expert was once a beginner who refused to give up.</i>
    <br>
@@ -63,17 +74,6 @@ I am a Software Developer focused on building web applications and business syst
 <br>
 </p>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Gabrieldev-8&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gabrieldev-8)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Gabrieldev-8&theme=material-palenight)](https://github.com/Gabrieldev-8)
-</div>
 
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Gabrieldev-8/Gabrieldev-8/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
