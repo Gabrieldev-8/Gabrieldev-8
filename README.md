@@ -6,10 +6,10 @@ Hi , I'm Gabriel
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<img align="right" width=300px alt="Unicorn" src="https://usagif.com/wp-content/uploads/cat-typing-8.gif"/>
+
 I am a Software Developer focused on building web applications and business systems. I specialize in backend development using **PHP and Laravel**, along with database management using **MySQL and MariaDB**. I enjoy designing and developing systems that solve real-world problems such as inventory management and POS systems.
 
-* **I am interested in backend development, web applications, and software architecture.**
+* **I am interested in backend development, web applications, and software architecture.**<img align="right" width=300px alt="Unicorn" src="https://usagif.com/wp-content/uploads/cat-typing-8.gif"/>
 
 - 🌱 I’m currently improving my skills in:
   - Advanced **Laravel**
@@ -69,7 +69,7 @@ I am a Software Developer focused on building web applications and business syst
    <i>Every expert was once a beginner who refused to give up.</i>
    <br>
 <br>	
-<a target="_blank" href="mailto:gabrieldev365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
 <a target="_blank" href="https://x.com/Gabrieldev0805"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
