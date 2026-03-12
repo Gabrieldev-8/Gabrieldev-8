@@ -7,7 +7,7 @@ Hi , I'm Gabriel
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <img align="right" width=300px alt="Unicorn" src="https://usagif.com/wp-content/uploads/cat-typing-8.gif"/>
-I am a **Software Developer** focused on building web applications and business systems. I specialize in backend development using **PHP and Laravel**, along with database management using **MySQL and MariaDB**. I enjoy designing and developing systems that solve real-world problems such as inventory management and POS systems.
+I am a Software Developer focused on building web applications and business systems. I specialize in backend development using **PHP and Laravel**, along with database management using **MySQL and MariaDB**. I enjoy designing and developing systems that solve real-world problems such as inventory management and POS systems.
 
 * **I am interested in backend development, web applications, and software architecture.**
 
@@ -51,7 +51,6 @@ I am a **Software Developer** focused on building web applications and business 
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
 </span>
 
 <hr>
@@ -64,5 +63,17 @@ I am a **Software Developer** focused on building web applications and business 
 <br>
 </p>
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=Gabrieldev-8&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gabrieldev-8)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Gabrieldev-8&theme=material-palenight)](https://github.com/Gabrieldev-8)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Gabrieldev-8/Gabrieldev-8/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
